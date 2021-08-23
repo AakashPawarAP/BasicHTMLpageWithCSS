@@ -1,0 +1,25 @@
+ul
+{
+    letter-spacing: 3px;
+    color: brown;
+}
+#id1
+{
+    background-color: yellow;
+    font-weight: bold;
+}
+p
+{
+    color: sienna;
+}
+button
+{
+    background-color: rgb(203, 231, 241);
+    border:solid orange 2px;
+    height: 40px;
+    width: 130px;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
